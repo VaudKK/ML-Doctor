@@ -1,0 +1,19 @@
+.div_style{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.card_style{
+    width: 40%;
+}
+
+.card_content{
+    padding: 10px;
+}
+
+.full_width{
+    width: 100%;
+    min-height: 250px;
+}
